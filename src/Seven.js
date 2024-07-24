@@ -4,7 +4,7 @@ const names = ["name1","name2","name3","name4"]
     return(
         <div>
                 {
-                    names.map((name,index) => <div key={index}>{name}</div>)
+                    names.map((name,index) => <div key={index}>{name}</div>) 
                 }
 
         </div>
