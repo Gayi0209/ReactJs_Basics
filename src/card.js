@@ -1,5 +1,5 @@
 function CardUI(props) {
-const width = 200;
+const width = 200; 
 
     return(
             <div>
