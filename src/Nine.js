@@ -10,7 +10,7 @@ function Nine(){
     const decrease = () => {
         setCount(count-2);
     }
-    useEffect(() => {
+    useEffect(() => { 
         console.log("Use Effect is called");
     },[count]);
     return(
