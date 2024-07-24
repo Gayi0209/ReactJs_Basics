@@ -13,12 +13,11 @@ function ReviewList() {
               <li key={index}>
                 <div>{customer.name}</div>
                 <div>{customer.review}</div>
-                <img src="/dress.png" alt="cloth" width="200" height="auto"/>
+                <img src="/dress.png" alt="cloth" />
               </li>
             ))}
           </ul>
         </div>
       );
     }
-
 export default ReviewList
