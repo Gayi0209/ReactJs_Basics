@@ -14,7 +14,7 @@ function CardListUI(){
             userFromArray = {userListItem} />) 
             )
         }
-        </div>
+        </div> 
     );
 }
 export default CardListUI;
