@@ -9,7 +9,7 @@ function Assingment4(){
     }
     const showRegister = () => {
         setState(false);
-    }
+    } 
     return(
         <div className="card">
             <div className="card-body mx-auto">
