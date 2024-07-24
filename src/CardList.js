@@ -10,7 +10,7 @@ function CardListUI(){
                 (userListItem,index) => (<CardUI key = {index}
             program = {userListItem}
             col = {college}
-            user = {userObject} 
+            user = {userObject}  
             userFromArray = {userListItem} />) 
             )
         }
