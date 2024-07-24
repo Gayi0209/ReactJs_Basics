@@ -11,7 +11,7 @@ class Eight extends React.Component {
         console.log("Mounted");
         console.log(this.count);
         console.log(this.count+1);
-        console.log(this.state.number+1);
+        console.log(this.state.number+1); 
     }
     componentWillUnmount(){
         console.log("Unmounted");
