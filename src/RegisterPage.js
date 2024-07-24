@@ -8,7 +8,7 @@ function RegisterPage(){
     const [gender,setGender] = useState('');
     const [user,setUser] = useState({});
 
-    const getCollegeId = (event) =>{
+    const getCollegeId = (event) =>{ 
         setCollegeId(event.target.value);
         console.log(collegeIdValue);
     }
