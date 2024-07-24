@@ -2,7 +2,7 @@ function ReviewList() {
     const list = [
         { name: "ramya", review: "The product is good" },
         { name: "rashi", review: "The product is moderate" },
-        { name: "raji", review: "The product is bad" },
+        { name: "raji", review: "The product is bad" }, 
         { name: "rani", review: "The product is good" }
       ];
     return (
