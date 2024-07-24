@@ -2,7 +2,7 @@ function Welcome () {
     return (
         <div>
             <h1>Welcome to ReactJS</h1>
-        </div>
+        </div> 
     )
 }
 export default Welcome;
