@@ -9,7 +9,7 @@ function CardListUI(){
             usersList.map(
                 (userListItem,index) => (<CardUI key = {index}
             program = {userListItem}
-            col = {college}
+            col = {college} 
             user = {userObject}  
             userFromArray = {userListItem} />) 
             )
