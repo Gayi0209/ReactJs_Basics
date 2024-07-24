@@ -6,7 +6,7 @@
 // import Booleancase from './boolean'
 // import ReviewList from './ReviewsAndDescription'
 // import CardUI from './Card'
-//import CardListUI from "./CardList"
+//import CardListUI from "./CardList" 
 // import Seven from './Seven'
 // import Eight from './Eight'
 // import Nine from "./Nine"
