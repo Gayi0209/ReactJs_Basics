@@ -16,7 +16,7 @@ return(
         <table className = "table">
             <thead>
             <tr>
-                <th>Id</th>
+                <th>Id</th> 
                 <th>UserId</th>
                 <th>Title</th>
                 <th>Body</th>
