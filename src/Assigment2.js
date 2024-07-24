@@ -4,7 +4,7 @@ function Assignment2() {
     const firstRef = useRef(null);
     const[reviews,setReviews] = useState('');
     const[List,setList] = useState([]);
-    const addReview = () => {
+    const addReview = () => { 
         console.log("Adding Review...");
         setList([...List,reviews]);
         setReviews('');
