@@ -15,7 +15,7 @@ function IncreAndDecre(){
  
     return(
         <div> 
-            {(count === 0) ?
+            {(count === 0) ? 
                 <button className="btn btn-outline-dark btn-sm" onClick={addtoCart}>Add to cart</button> :
                 <div style = {{ display : "flex",flexWrap : 'wrap'}}>
                     <button className="btn btn-Light" onClick={decrease}> - </button>
