@@ -4,7 +4,7 @@ function arrPrint(){
         <div>
             <h2>Numbers: </h2>
             {arr.map((num) => {
-                return <p>{num}</p>
+                return <p>{num}</p> 
             })}
         </div>
     );
