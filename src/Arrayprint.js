@@ -8,7 +8,7 @@ function arrPrint(){
             })}
         </div>
     );
-
+ 
     // const branches = ["IT","CSE","AIML","AIDS","Cys"];
     // const branchList = branches.map((branch,index) => <li>{branch}</li>);
     // return (

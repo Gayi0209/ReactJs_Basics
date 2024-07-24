@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // import Welcome from './welcome'
 // import Add from './Add'
 // import Details from './details'
@@ -18,6 +19,14 @@
 // import Assingment4 from "./Assignment4"
 // import RegisterPage from "./RegisterPage"
 import DataFetching from "./DataFetching"
+=======
+import Welcome from './welcome'
+import Add from './Add'
+import Details from './details'
+import Arrayprint from './Arrayprint'
+import Booleancase from './boolean'
+import ReviewList from './ReviewsAndDescription' 
+>>>>>>> dfaf51f2ada02bf96a7fa07e5fc6cedba4bd0adc
 function All()
 {
     return (

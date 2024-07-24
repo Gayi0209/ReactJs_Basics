@@ -20,4 +20,9 @@ function ReviewList() {
         </div>
       );
     }
+<<<<<<< HEAD
 export default ReviewList
+=======
+
+export default ReviewList
+>>>>>>> dfaf51f2ada02bf96a7fa07e5fc6cedba4bd0adc
