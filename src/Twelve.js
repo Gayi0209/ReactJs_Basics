@@ -15,6 +15,6 @@ return(
             <button type = "submit"> Submitt</button>
         </form>
     </div>
-)
+) 
 }
 export default Twelve;
